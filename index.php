@@ -49,7 +49,7 @@
     <!-- HERO -->
 
     <!-- HERO DETAILS SECTION -->
-    <section class="heroDeets container">
+    <section class="heroDeets container position-relative">
         <div class="details">
             <div class="each">
                 <img src="assets/cctv1.png" alt="">
