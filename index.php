@@ -26,7 +26,7 @@
     <!-- NAVBAR -->
 
     <!-- HERO -->
-    <section id="hero">
+    <section id="her">
         <div class="hero container text-white position-relative">
             <div class="content d-flex flex-column flex-lg-row align-items-lg-center justify-content-lg-between  z-1">
                 <div class="left">
