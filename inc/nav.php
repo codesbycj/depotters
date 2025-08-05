@@ -18,7 +18,7 @@
                         <a class="nav-link active" aria-current="page" href="services.php">Services</a>
                     </li>
                     <li class="nav-item btns d-block d-lg-none text-center text-white">
-                        <a class="nav-link active text-white" aria-current="page" href="contact.php">Cntact Us</a>
+                        <a class="nav-link active text-white" aria-current="page" href="contact.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
