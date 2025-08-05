@@ -77,11 +77,12 @@
                         </div>
                         <div class="each">
                             <i class="fa-solid fa-shield-halved"></i>
-                            <div class="detail">
+                            <div class="detail d-flex flex-column gap-2">
                                 <p class="fw-bold my-0">
                                     First Major Project</p>
                                 <p class=" my-0">2021 - Completed large-scale security installation for corporate
                                     client</p>
+                                <a href="index.php#projects" class="btns" style="text-decoration: none; width: fit-content;">More Projects</a>
                             </div>
                         </div>
                         <div class="each">
@@ -106,7 +107,7 @@
     <section id="mission">
         <div class="mission container d-flex flex-column flex-lg-row">
             <div class="left d-none d-lg-block">
-                <img src="assets/10025.jpg" alt="" srcset="">
+                <img src="assets/OIP.webp" alt="" srcset="">
             </div>
 
             <div class="right flex-column d-flex gap-4">
@@ -164,9 +165,9 @@
             <div class="leaders row g-5">
                 <div class="each col-12 col-md-6 col-lg-4">
                     <div class="eachIn">
-                        <img src="assets/team001.avif" alt="" class="img-fluid">
+                        <img src="assets/Edward.jpg" alt="" class="img-fluid">
                         <div class="words">
-                            <h2>Edward Sampson</h2>
+                            <h2>Mr. Edward U. Sampson</h2>
                             <p class="mb-4">Founder & Chief Executive Officer</p>
                             <p class="my-0">A visionary leader with deep expertise in CCTV installation, smart home
                                 automation, and network infrastructure who drives the company's strategic direction and
@@ -176,9 +177,9 @@
                 </div>
                 <div class="each col-12 col-md-6 col-lg-4">
                     <div class="eachIn">
-                        <img src="assets/team001.avif" alt="" class="img-fluid">
+                        <img src="assets/Izuchukwu.jpg" alt="" class="img-fluid">
                         <div class="words">
-                            <h2>Ugwuanyi C. Izuchukwu</h2>
+                            <h2>Mr. Ugwuanyi E. Izuchukwu</h2>
                             <p class="mb-4">Chief Technology Officer</p>
                             <p class="my-0">Oversees all technical operations with specialization in system architecture
                                 and
@@ -189,9 +190,9 @@
                 </div>
                 <div class="each col-12 col-md-6 col-lg-4">
                     <div class="eachIn">
-                        <img src="assets/team001.avif" alt="" class="img-fluid">
+                        <img src="assets/Kingston.png" alt="" class="img-fluid">
                         <div class="words">
-                            <h2>Nworgu C. Kingston</h2>
+                            <h2>Mr. Nworgu C. Kingston</h2>
                             <p class="mb-4">Administrative Director & CMO</p>
                             <p class="my-0">Leads company operations and marketing strategies, building the De-Potter
                                 brand

@@ -191,8 +191,12 @@ nav .btns {
   height: 350px;
 }
 
+.about .words .mini > img {
+  width: 100px;
+}
+
 .about .words .mini .right img {
-  width: 15%;
+  width: 10%;
 }
 
 .callsSpecial {
@@ -243,6 +247,9 @@ nav .btns {
 
 .services img {
   width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
 }
@@ -274,6 +281,10 @@ nav .btns {
 
 .whyUs .mid .each img {
   width: 80px;
+}
+
+.whyUs .mid img {
+  width: 35%
 }
 
 .whyUs .mid .each {
@@ -767,7 +778,7 @@ nav .btns {
   width: 100%;
   height: 300px;
   object-fit: cover;
-  object-position: center;
+  object-position: top;
   border-radius: 10px;
 }
 

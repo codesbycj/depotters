@@ -1,8 +1,8 @@
     <section id="about">
         <div class="about container d-flex gap-5 flex-column flex-lg-row position-relative">
             <div class="imagex d-flex gap-5 flex-column position-relative d-none d-lg-block">
-                <img src="assets/10011.jpg" alt="">
-                <img src="assets/10012.jpg" alt="">
+                <img src="assets/About(1).jpeg" alt="">
+                <img src="assets/About(1).jpg" alt="">
             </div>
 
             <div class="words d-flex flex-column gap-3">
@@ -15,7 +15,7 @@
                     systems.</p>
 
                 <div class="mini d-flex gap-5 align-items-center flex-column flex-md-row ">
-                    <img src="assets/10013.jpg" style="border-radius: 20px;">
+                    <img src="assets/About(2).jpeg" style="border-radius: 20px;">
                     <div class="right flex-column d-flex gap-3">
                         <img src="assets/people.png" class="d-none d-md-block" alt="">
                         <p class="fw-semibold">We Have More Than 25+ Years of CCTV Services Experience</p>
