@@ -1,6 +1,6 @@
     <nav class="navbar navbar-expand-lg position-fixed py-lg-3 px-lg-5 px-3 py-2 z-3">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">DEPOTTER</a>
+            <a class="navbar-brand" href="#"><img src="assets/logo.png" alt="" style="width: 150px;"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
