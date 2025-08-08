@@ -13,6 +13,7 @@
     <link rel="stylesheet" type="text/css"
         href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <link rel="shortcut icon" href="assets/logo.png" type="image/x-icon">
 
     <link rel="stylesheet" href="style.css">
     <title>De Potters Global</title>
