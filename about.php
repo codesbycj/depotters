@@ -182,7 +182,7 @@
                         <img src="assets/Izuchukwu.jpg" alt="" class="img-fluid">
                         <div class="words">
                             <h2>Mr. Ugwuanyi E. Izuchukwu</h2>
-                            <p class="mb-4">Chief Technology Officer</p>
+                            <p class="mb-4">Co-founder / Chief Technology Officer</p>
                             <p class="my-0">Oversees all technical operations with specialization in system architecture
                                 and
                                 emerging security technologies, ensuring our solutions remain at the industry forefront.

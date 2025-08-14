@@ -284,7 +284,7 @@ nav .btns {
 }
 
 .whyUs .mid img {
-  width: 35%
+  width: 35%;
 }
 
 .whyUs .mid .each {
@@ -414,12 +414,13 @@ nav .btns {
 
 .testimonial p {
   font-size: 0.875rem;
+  margin-top: 0;
   margin-bottom: 0.5rem;
   line-height: 1.5rem;
 }
 
 .testimonial h4 {
-  line-height: 0.2 !important;
+  /* line-height: 0.2 !important; */
 }
 .testimonial .profile {
   margin-top: 16px;
@@ -448,6 +449,15 @@ nav .btns {
   display: flex;
   justify-content: center;
   margin: 10px;
+}
+
+.profile h4 {
+  font-size: 15px !important;
+  margin-bottom: 0;
+}
+
+.testimonial .row .col-sm-2 {
+  display: none;
 }
 
 /* TESTIMONIAL */
@@ -753,7 +763,7 @@ nav .btns {
   border-radius: 10px;
   height: 100%;
   object-fit: cover;
-  object-position: center ;
+  object-position: center;
 }
 
 /* TEAM */
@@ -781,7 +791,6 @@ nav .btns {
   object-position: top;
   border-radius: 10px;
 }
-
 
 /* SERVICES */
 /* SERVICES */

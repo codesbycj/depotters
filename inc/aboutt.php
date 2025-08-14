@@ -15,7 +15,7 @@
                     systems.</p>
 
                 <div class="mini d-flex gap-5 align-items-center flex-column flex-md-row ">
-                    <img src="assets/About(2).jpeg" style="border-radius: 20px;">
+                    <img src="assets/About(2).jpeg" style="border-radius: 20px; width: 300px;">
                     <div class="right flex-column d-flex gap-3">
                         <img src="assets/people.png" class="d-none d-md-block" alt="">
                         <p class="fw-semibold">We Have More Than 25+ Years of CCTV Services Experience</p>
