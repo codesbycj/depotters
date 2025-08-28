@@ -13,7 +13,7 @@
                     to ensure your security systems operate flawlessly.</p>
 
                 <div class="mini d-flex gap-5 align-items-center flex-column flex-md-row ">
-                    <img src="assets/technical(3).jpeg" style="border-radius: 20px; flex: 1;">
+                    <img src="assets/technical(3).jpeg" style="border-radius: 20px; flex: 1; width: 300px;">
                     <div class="right flex-column d-flex gap-3" style="flex: 1;">
                         <img src="assets/people.png" class="d-none d-md-block" alt="">
                         <p class="fw-semibold">We Have More Than 25+ Years of CCTV Services Experience</p>

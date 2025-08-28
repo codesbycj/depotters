@@ -84,7 +84,10 @@
                                     First Major Project</p>
                                 <p class=" my-0">2021 - Completed large-scale security installation for corporate
                                     client</p>
-                                <a href="index.php#projects" class="btns" style="text-decoration: none; width: fit-content;">More Projects</a>
+                                <div class="d-flex align-items-center gap-4">
+                                    <a href="index.php#projects" class="btns" style="text-decoration: none; width: fit-content;">More Projects</a>
+                                    <a href="https://share.google/ens13nl15bg3ZF0Xb" style="color: white;" target="_blank"><i class="fa-brands fa-google" style="border-radius: 1rem; background-color: var(--color-primary); padding: 1rem; font-size: 18px;" ></i></a>
+                                </div>
                             </div>
                         </div>
                         <div class="each">
@@ -192,7 +195,7 @@
                 </div>
                 <div class="each col-12 col-md-6 col-lg-4">
                     <div class="eachIn">
-                        <img src="assets/Kingston.png" alt="" class="img-fluid">
+                        <img src="assets/kingston.png" alt="" class="img-fluid">
                         <div class="words">
                             <h2>Mr. Nworgu C. Kingston</h2>
                             <p class="mb-4">Administrative Director & CMO</p>

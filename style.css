@@ -18,7 +18,7 @@
 body {
   font-family: "Rubik", sans-serif !important;
   color: black;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
   background-color: var(--color-light);
 }
 
@@ -178,6 +178,10 @@ nav .btns {
   border-radius: 50px;
   position: absolute;
   height: 350px;
+}
+
+.abouti i {
+  
 }
 
 .about .imagex img:last-child {

@@ -39,7 +39,7 @@
 
                 <div class="location">
                     <i class="fa-solid fa-envelopes-bulk"></i>
-                    depotterglobal@gmail.com
+                    info@depotterglobal.com
                 </div>
 
             </div>
