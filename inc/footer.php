@@ -4,7 +4,7 @@
                 <h2>De-Potter Global</h2>
                 <p class="my-0" style="font-size: 14px; color: #e5e5e5">Nigeria's premium security technology provider, delivering innovative solutions that protect,
                     empower, and drive digital growth across Africa.</p>
-                <div class="socials">
+                <div class="socials flex-wrap">
                     <a href="https://www.facebook.com/share/1GcYJguk3j/?mibextid=wwXIfr" style="color: white;" target="_blank"><i class="fa-brands fa-facebook"></i></a>
                     <a href="https://x.com/depotter_001?s=21" style="color: white;" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                     <a href="https://www.instagram.com/depotterglobaltech?igsh=NGl5YzZ0cmxrdmll&utm_source=qr" style="color: white;" target="_blank"><i class="fa-brands fa-instagram"></i></a>
